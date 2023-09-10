@@ -6,8 +6,8 @@ Yuhui Quan, Haoran Huang, Shengfeng He, Ruotao Xu.
 
 # Train
 To train the model, just run:
-<code>python train.py<code>
+<code>python train.py
 
 # Test
 To test the model, just run:
-<code>python test.py<code>
+<code>python test.py
