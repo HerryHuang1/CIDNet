@@ -4,8 +4,8 @@
 
 Yuhui Quan, Haoran Huang, Shengfeng He, Ruotao Xu.
 
-**Train**
+# Train
 To train the model, just run:
 
-**Test**
+# Test
 To test the model, just run:
