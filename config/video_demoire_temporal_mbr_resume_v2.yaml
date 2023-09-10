@@ -51,7 +51,7 @@ TRAIN:
 TEST:
   VAL_RESULT_DIR: output/val_result  # folder to save validation results
   VAL_TIME: 1  # validate every xxx epochs
-  TEST_EPOCH: 616 # test epoch
+  TEST_EPOCH: 1600 # test epoch
   TEST_RESULT_DIR: output/test_result  # folder to save test results
   SAVE_IMG: jpg  # image suffix for storage
   have_gt: True  # have GT during test? If true, calculate metrics
