@@ -10,7 +10,6 @@ To train the model, just run:
 
 # Test
 To test the model, just run:
-
 <code>python test.py<code>
 
 We also provide pre-trained models for both TCL and iPhone in 'output/model_dir
