@@ -8,7 +8,6 @@ Yuhui Quan, Haoran Huang, Shengfeng He, Ruotao Xu.
 To train the model, just run:
 
 <code>python train.py
-
 # Test
 To test the model, just run:
 
